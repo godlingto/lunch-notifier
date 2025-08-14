@@ -32,5 +32,5 @@ st.set_page_config(page_title="오로라", layout="wide", initial_sidebar_state=
 
 st.markdown(aurora_html, unsafe_allow_html=True)
 
-st.title("✅ 오로라 효과 디버그 버전")
+st.title("✅ 오로라 효과 디버그 버전 V0.2")
 st.write("배경에 형광색 오로라가 퍼지고 움직여야 정상입니다.")
